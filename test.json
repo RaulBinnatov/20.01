@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "info": "At vero eos et accusamus et iusto odio dignissimos ducimus qui bland itiis praesentium voluptatum deleniti atque corrupti.",
+        "img": "https://images01.nicepage.com/56/df/56df4d594b6cfe89c3cab7a6f6be1b07.jpeg"
+    
+    },
+    {
+        "id": 2,
+        "name": "Salads",
+        "info": "At vero eos et accusamus et iusto odio dignissimos ducimus qui bland itiis praesentium voluptatum deleniti atque corrupti.",
+        "img": "https://images01.nicepage.com/56/df/56df4d594b6cfe89c3cab7a6f6be1b07.jpeg"
+
+    },
+    {
+        "id": 3,
+        "name": "desserts",
+        "info": "At vero eos et accusamus et iusto odio dignissimos ducimus qui bland itiis praesentium voluptatum deleniti atque corrupti.",
+        "img": "https://images01.nicepage.com/56/df/56df4d594b6cfe89c3cab7a6f6be1b07.jpeg"
+
+    }
+]
